@@ -1,4 +1,6 @@
-<img src='https://cdn.jsdelivr.net/gh/lhzkml2512/Typecho-plugins/image/time.png' align="right" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lhzkml2512/Typecho-plugins/image/time.png"/>
+</div>
 
 ## lhzkml个人Typecho-插件库 插件目录
 ------------------------------
